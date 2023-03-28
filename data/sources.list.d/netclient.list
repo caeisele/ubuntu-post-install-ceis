@@ -1,0 +1,6 @@
+# Source: netclient
+# Site: https://github.com/gravitl/netmaker
+# Repository: Netmaker / stable
+# Description:  a platform for modern, blazing fast virtual networks
+
+deb https:apt.netmaker.org stable main
